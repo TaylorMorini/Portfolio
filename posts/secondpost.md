@@ -1,12 +1,14 @@
 ---
-title: This is the second example post
-summary: Bring to the table win-win survival strategies to ensure proactive domination.
-date: 2020-01-01
-author: John Appleseed
+title: Dev.to Article 2
+summary: Wikipedia-Query Tag Creation
+date: 2022-03-24
+author: Taylor Morini
 tags:
-  - sport
+  - API
+  - Git
 ---
 
+**Link to Dev.to Article**
+[API Back End: Wikipedia-Query Tag Creation](https://dev.to/taylormorini/api-back-end-wikipedia-query-tag-creation-14lk)
 
-## Section Header
 

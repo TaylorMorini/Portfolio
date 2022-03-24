@@ -1,6 +1,6 @@
 ---
 title: Dev.to Article 1
-date: 2020-10-15T12:23:39.598Z
+date: 2022-03-24T12:23:39.598Z
 author: Taylor Morini
 summary: Getting started with web components
 tags:
