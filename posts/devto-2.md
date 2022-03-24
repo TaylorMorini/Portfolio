@@ -1,5 +1,5 @@
 ---
-title: Dev.to Article 2
+title: Tag Creation
 summary: Wikipedia-Query Tag Creation
 date: 2022-03-24
 author: Taylor Morini

@@ -1,5 +1,5 @@
 ---
-title: Dev.to Article 1
+title: Web Components
 date: 2022-03-24T12:23:39.598Z
 author: Taylor Morini
 summary: Getting started with web components

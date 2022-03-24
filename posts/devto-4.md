@@ -1,5 +1,5 @@
 ---
-title: Dev.to Article 4
+title: 11ty Use
 date: 2022-03-24
 author: Taylor Morini
 summary: Using 11ty

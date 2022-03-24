@@ -1,5 +1,5 @@
 ---
-title: Dev.to Article 5
+title: Working with Vercel
 date: 2022-03-24
 author: Taylor Morini
 summary: Vercel usage

@@ -1,5 +1,5 @@
 ---
-title: Dev.to Article 3
+title: Docker Use
 date: 2022-03-24
 author: Taylor Morini
 summary: Article detailing the functions of Docker + How to leverage it for specific projects
